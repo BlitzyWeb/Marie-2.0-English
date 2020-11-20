@@ -1,6 +1,6 @@
 
 {
-  "name": "Marie-2.0 English",
+  "name": "BlitzyWeb-1.0 Bot",
   "description": "Telegram's sassiest group manager. Modular Telegram group management bot!",
   "keywords": [
     "telegram",
@@ -9,7 +9,7 @@
     "manager",
     "3"
   ],
-  "repository": "hhttps://github.com/TGExplore/Marie-2.0-English",
+  "repository": "hhttps://github.com/BlitzyWeb/Bot2",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
@@ -21,11 +21,11 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "683538773"
+      "value": "1216930495"
     },
     "OWNER_USERNAME": {
       "description": "Your username",
-      "value": "ViruZs"
+      "value": "BlitzyWeb"
     },
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode messages",
@@ -41,19 +41,19 @@
     },
     "SUDO_USERS": {
       "description": "A space separated list of user_ids which should be considered sudo users",
-      "value": "254318997 683538773 570400686 466337795"
+      "value": "1216930495"
     },
     "SUPPORT_USERS": {
       "description": "A space separated list of user_ids which should be considered support users (can gban/ungban, nothing else)",
-      "value": "254318997 683538773 570400686 466337795"
+      "value": "1216930495"
     },
     "WHITELIST_USERS": {
       "description": "A space separated list of user_ids which should be considered whitelisted - they can't be banned.",
-      "value": "254318997 683538773 570400686 466337795"
+      "value": "1216930495"
     },
     "DONATION_LINK": {
       "description": "Optional: link where you would like to receive donations.",
-      "value": "https://www.paypal.me/Your_id_here"
+      "value": "Go and donate to the needy"
     },
     "PORT": {
       "description": "Port to use for your webhooks",
